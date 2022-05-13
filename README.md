@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://md-musa.github.io/portfolio/](https://md-musa.netlify.app)
+- 👨‍💻 All of my projects are available at [https://md-musa.netlify.app](https://md-musa.netlify.app)
 
 - 💬 Ask me about **Javascript, React, Redux, Redux-toolkit, Tailwindcss**
 
