@@ -8,7 +8,7 @@
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://md-musa.netlify.app) -->
 
----
+
 
 ## About
 
@@ -20,7 +20,6 @@ Alongside that, I've been expanding into queue-based architectures through MailF
 
 Currently finishing my B.Sc. in Computer Science at Daffodil International University (Expected June 2026, CGPA: 3.82/4) and looking for a junior backend or full-stack role where I can keep growing.
 
----
 
 ## Tech Stack
 
@@ -42,7 +41,7 @@ Currently finishing my B.Sc. in Computer Science at Daffodil International Unive
 **CS Fundamentals**
 `Data Structures & Algorithms` · `OOP` · 200+ LeetCode problems solved
 
----
+
 
 ## Projects
 
@@ -57,7 +56,7 @@ A transport tracking system I built and deployed end-to-end for my university ca
 
 [GitHub](https://github.com/md-musa) · [Play Store](#)
 
----
+
 
 ### MailFlow — Queue-Based Bulk Email Delivery System
 `NestJS` `PostgreSQL` `Prisma` `Redis` `BullMQ` `React.js` `TailwindCSS` `JWT`
@@ -70,23 +69,14 @@ A learning project I built to get hands-on with NestJS, BullMQ, and Redis. The g
 
 [GitHub](https://github.com/md-musa) · [Live](#)
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-musa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-musa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-musa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## Currently
 
