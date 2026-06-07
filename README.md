@@ -54,7 +54,7 @@ A transport tracking system I built and deployed end-to-end for my university ca
 - Designed route-based socket room architecture to scope live data delivery, reducing network overhead at scale
 - Deployed on DigitalOcean VPS with Nginx reverse proxy and PM2 process management for production reliability
 
-[GitHub](https://github.com/md-musa) · [Play Store](#)
+[GitHub](https://github.com/md-musa/cholo_diu) · [Play Store](https://play.google.com/store/apps/details?id=com.musa.cholo)
 
 
 
@@ -67,7 +67,7 @@ A learning project I built to get hands-on with NestJS, BullMQ, and Redis. The g
 - Built RESTful APIs with NestJS and Prisma for campaign management, contact/group handling, and delivery tracking
 - Built a dashboard with JWT-based auth for monitoring campaign progress and delivery status
 
-[GitHub](https://github.com/md-musa) · [Live](#)
+[GitHub](https://github.com/md-musa/mailflow) · [Live](https://astonishing-sable-66ee15.netlify.app/)
 
 
 
@@ -80,6 +80,6 @@ A learning project I built to get hands-on with NestJS, BullMQ, and Redis. The g
 
 ## Currently
 
-- 🎓 Completing B.Sc. in CSE at Daffodil International University
+- 🎓 Completing B.Sc. in CSE at Daffodil International University (CGPA: 3.82/4)
 - 🔍 Open to junior backend or full-stack engineering roles
 - 📚 Deepening expertise in distributed systems and backend architecture
