@@ -6,20 +6,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-musa1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/md-musa)
 
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://md-musa.netlify.app) -->
-
 
 
 ## About
+I'm a backend-focused software engineer who enjoys building systems that are reliable
+and built to last. I shipped CholoDIU, a real-time university transport tracking system
+with 1,000+ Play Store downloads, actively used daily by students on campus. I also
+built MailFlow, a queue-based bulk email delivery platform using BullMQ and Redis to
+deepen my understanding of asynchronous backend architecture.
 
-I'm a backend-focused software engineer who enjoys building systems that work reliably at scale. Clean APIs, efficient data models, and architecture that holds up under real usage.
-
-My most significant project is CholoDIU, a real-time university transport tracking system I built and deployed end-to-end. It has 1k downloads on the Play Store and students are actively using it daily to track university buses in real time.
-
-Alongside that, I've been expanding into queue-based architectures through MailFlow, a bulk email delivery platform I built to learn NestJS, BullMQ, and Redis. It's a learning project, but one I took seriously enough to build production-quality.
-
-Currently finishing my B.Sc. in Computer Science at Daffodil International University (Expected June 2026, CGPA: 3.82/4) and looking for a junior backend or full-stack role where I can keep growing.
-
+Currently finishing my B.Sc. in Computer Science at Daffodil International University
+and open to junior backend or full-stack roles.
 
 ## Tech Stack
 
@@ -27,13 +24,13 @@ Currently finishing my B.Sc. in Computer Science at Daffodil International Unive
 `TypeScript` `JavaScript` `C++`
 
 **Backend**
-`Node.js` `Express.js` `NestJS` `Socket.IO` `BullMQ` `Redis` `JWT` `RESTful APIs` `WebSocket`
+`Node.js` `Express.js` `NestJS` `Socket.IO` `BullMQ` `RESTful APIs` `WebSocket` `JWT`
 
 **Frontend**
 `React.js` `React Native (Expo)` `Redux` `RTK Query` `TailwindCSS`
 
 **Databases & ORM**
-`PostgreSQL` `MongoDB` `Prisma` `Mongoose`
+`PostgreSQL` `MongoDB` `Redis` `Prisma` `Mongoose`
 
 **Infrastructure & Tools**
 `DigitalOcean VPS` `Nginx` `PM2` `Git` `Postman`
@@ -48,11 +45,19 @@ Currently finishing my B.Sc. in Computer Science at Daffodil International Unive
 ### CholoDIU — Real-Time University Transport System
 `Node.js` `Express.js` `Socket.IO` `MongoDB` `React Native` `Redux` `Nginx` `DigitalOcean`
 
-A transport tracking system I built and deployed end-to-end for my university campus. It has 1k downloads on the Play Store and students are actively using it daily to track buses in real time.
+A transport tracking system built and deployed end-to-end for my university campus.
+1,000+ Play Store downloads, actively used daily by students to track buses in real time.
 
-- Built Socket.IO-based WebSocket architecture for real-time GPS tracking with low-latency driver-to-passenger updates
-- Designed route-based socket room architecture to scope live data delivery, reducing network overhead at scale
-- Deployed on DigitalOcean VPS with Nginx reverse proxy and PM2 process management for production reliability
+- Built and deployed a real-time university transport tracking system with 1,000+
+  Play Store downloads and active daily usage by students
+- Implemented Socket.IO-based WebSocket communication for continuous GPS tracking
+  with low-latency location updates between drivers and passengers
+- Designed route-based socket room architecture to broadcast live tracking data
+  only to relevant users, reducing unnecessary network traffic
+- Built RESTful APIs with JWT-based authentication for trip management, route
+  operations, and bus metadata, consumed by both the mobile app and admin dashboard
+- Deployed on DigitalOcean VPS using Nginx as a reverse proxy and PM2 for process
+  management, ensuring production-grade uptime
 
 [GitHub](https://github.com/md-musa/cholo_diu) · [Play Store](https://play.google.com/store/apps/details?id=com.musa.cholo)
 
@@ -61,25 +66,32 @@ A transport tracking system I built and deployed end-to-end for my university ca
 ### MailFlow — Queue-Based Bulk Email Delivery System
 `NestJS` `PostgreSQL` `Prisma` `Redis` `BullMQ` `React.js` `TailwindCSS` `JWT`
 
-A learning project I built to get hands-on with NestJS, BullMQ, and Redis. The goal was to understand queue-based architectures properly, so I built it as a full SaaS-style platform rather than a toy example.
+A bulk email delivery platform built to get hands-on with queue-based architecture.
+Supports campaign management, recipient groups, scheduled delivery, and delivery tracking.
 
-- Designed a background worker architecture using BullMQ and Redis to process, retry, and schedule email jobs asynchronously
-- Built RESTful APIs with NestJS and Prisma for campaign management, contact/group handling, and delivery tracking
-- Built a dashboard with JWT-based auth for monitoring campaign progress and delivery status
+- Built a bulk email delivery platform supporting campaign-based distribution to
+  recipient groups with asynchronous queue processing
+- Designed a background worker architecture using BullMQ and Redis to process,
+  retry, and schedule email jobs with fault tolerance and independent failure handling
+- Developed RESTful APIs using NestJS and Prisma for campaign management, contact
+  and group handling, email job tracking, and delivery analytics
+- Built a dashboard using React, TailwindCSS, and shadcn/ui with JWT authentication
+  for monitoring campaign progress and delivery status
 
 [GitHub](https://github.com/md-musa/mailflow) · [Live](https://astonishing-sable-66ee15.netlify.app/)
 
 
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-musa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 
+
 ## Currently
 
-- 🎓 Completing B.Sc. in CSE at Daffodil International University (CGPA: 3.82/4)
+- 🎓 Completing B.Sc. in CSE at Daffodil International University (Expected July 2026, CGPA: 3.82/4)
 - 🔍 Open to junior backend or full-stack engineering roles
-- 📚 Deepening expertise in distributed systems and backend architecture
+- 📚 Deepening knowledge in distributed systems and backend architecture
