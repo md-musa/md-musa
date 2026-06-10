@@ -9,8 +9,7 @@
 
 
 ## About
-I'm a backend-focused software engineer who enjoys building systems that are reliable
-and built to last. I shipped CholoDIU, a real-time university transport tracking system
+I'm a backend-focused software engineer with a passion for building scalable and production-grade systems. I shipped CholoDIU, a real-time university transport tracking system
 with 1,000+ Play Store downloads, actively used daily by students on campus. I also
 built MailFlow, a queue-based bulk email delivery platform using BullMQ and Redis to
 deepen my understanding of asynchronous backend architecture.
