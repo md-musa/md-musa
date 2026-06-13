@@ -1,5 +1,5 @@
 # Mohammad Musa
-**Backend-focused Software Engineer**
+**Software Engineer**
 📧 mohammad.musa.dev@gmail.com · 📍 Dhaka, Bangladesh
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MhK1UqU6GD4wiSH6xe66cGqmZAM1Hicd/view?usp=sharing)
@@ -9,13 +9,13 @@
 
 
 ## About
-I'm a backend-focused software engineer with a passion for building scalable and production-grade systems. I shipped CholoDIU, a real-time university transport tracking system
-with 1,000+ Play Store downloads, actively used daily by students on campus. I also
-built MailFlow, a queue-based bulk email delivery platform using BullMQ and Redis to
-deepen my understanding of asynchronous backend architecture.
+I'm a Software Engineer currently pursuing a B.Sc. in Computer Science and Engineering at Daffodil International University.
 
-Currently finishing my B.Sc. in Computer Science at Daffodil International University
-and open to junior backend or full-stack roles.
+I built CholoDIU, a real-time university transport tracking system with 1,000+ Play Store downloads that is actively used by students on campus for live bus tracking and trip updates. I also built MailFlow, a queue-based bulk email delivery platform using BullMQ and Redis to explore asynchronous processing, background workers, and scalable system design.
+
+My interests include backend engineering, distributed systems, API development, and real-time applications. I regularly practice Data Structures and Algorithms and have solved 200+ problems on LeetCode.
+
+Currently open to junior software engineering opportunities.
 
 ## Tech Stack
 
@@ -62,7 +62,7 @@ A transport tracking system built and deployed end-to-end for my university camp
 
 
 
-### MailFlow — Queue-Based Bulk Email Delivery System
+### MailFlow — Queue-Based Bulk Email Delivery Platform
 `NestJS` `PostgreSQL` `Prisma` `Redis` `BullMQ` `React.js` `TailwindCSS` `JWT`
 
 A bulk email delivery platform built to get hands-on with queue-based architecture.
@@ -92,5 +92,5 @@ Supports campaign management, recipient groups, scheduled delivery, and delivery
 ## Currently
 
 - 🎓 Completing B.Sc. in CSE at Daffodil International University (Expected July 2026, CGPA: 3.82/4)
-- 🔍 Open to junior backend or full-stack engineering roles
+- 🔍 Open to junior software engineering opportunities
 - 📚 Deepening knowledge in distributed systems and backend architecture
